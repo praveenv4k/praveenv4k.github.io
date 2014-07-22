@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    
+    <head>
+        <title>Mobile app</title>
+
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1" />
+        <meta name="msapplication-tap-highlight" content="no" />
+
+        <link href="Content/jquery.mobile-1.4.2.css" rel="stylesheet" />
+        
+        <script src="Scripts/knockout-3.1.0.debug.js"></script>
+        <script src="Scripts/modernizr-2.7.2.js"></script>
+        <script src="Scripts/jquery-2.1.1.js"></script>
+        <script src="Scripts/jquery-ui-1.10.4.js"></script>
+        <script src="Scripts/jquery.mobile-1.4.2.js"></script>
+    </head>
+
+    <body>
+        <div data-role="page" id="home" data-title="Home">
+                <div data-role="header" data-theme="b" data-position="fixed" data-id="toolbar">
+                    <a href="#" data-icon="delete">Cancel</a>
+                    <a href="#contact" data-icon="check">Done</a>                
+                </div>
+                <div data-role="content">
+                    <h1>Hello world!</h1>
+                </div>
+                <div data-role="footer" data-position="fixed" data-id="toolbar">
+                    <div data-role="navbar">
+                        <ul>
+                            <li><a href="#" data-icon="grid">One</a></li>
+                            <li><a href="#" data-icon="gear">Two</a></li>
+                            <li><a href="#" data-icon="star">Three</a></li>
+                        </ul>
+                    </div>
+                    <h2>Copyright @2014</h2>
+                </div>
+            </div>
+            <div data-role="page" id="contact" data-title="Contact">
+                <div data-role="header" data-position="fixed" data-id="toolbar">
+                    <h1>Contact</h1>
+                    <a href="#home" data-icon="home">Home</a>
+                </div>
+                <div data-role="content">
+                    <h1>Contact Info...</h1>
+                </div>
+                <div data-role="footer" data-position="fixed" data-id="toolbar">
+                    <h2>Copyright @2014</h2>
+                </div>
+            </div>
+    </body>
+
+</html>
