@@ -1,0 +1,12 @@
+# Site settings
+title: Your awesome title
+email: praveenv4k at gmail dot com
+description: > # this means to ignore newlines until "baseurl:"
+  Personal web page of Praveenkumar Vasudevan.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: praveenv4k
+github_username:  praveenv4k
+
+# Build settings
+markdown: kramdown
