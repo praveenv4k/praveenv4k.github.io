@@ -10,7 +10,7 @@ wordpress_id: 45
 
 Yesterday I was given a warm party in an [Indian restaurant ](http://tabelog.com/kanagawa/A1408/A140802/14029699/) near my office. Since I have decided to carry on with my Master studies from this September, my colleague Mr.Kato organised a send off party at the indian restaurant. And there was almost 100% turnout in the party which was overwhelming and I was humbled by this. Its a custom in Japan to start the party with some words from some higher officials in the project. So Mr. Morioka who is my project manager started the party with some kind words. My Japanese colleagues enjoyed Indian food and to my surprise they were also fine with the spicy curry. And towards the end of the party I was asked to give a speech of course in Japanese ( I am a decent speaker of Japanese u know :) ). Usually I prepare some text and practise ahead of time. But this time I did not prepare any such things. This is because I had developed confidence that I can speak in Japanese at the spot when asked to speak. So see me here in action where I managed to crack some jokes and also gave my thoughts on a serious note regarding my higher studies. At the end I also spoke the only sentence I know in Italian :)
 
-http://www.youtube.com/watch?v=nny81u1C4-E&feature=youtu.be
+<iframe width="640" height="390" src="https://www.youtube.com/embed/nny81u1C4-E" frameborder="0" allowfullscreen></iframe>
 
 Thanks to my friend Venkatesh for capturing the moment and posting.
 
